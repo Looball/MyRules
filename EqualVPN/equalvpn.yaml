@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,pytorch.org
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,comfy.org
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,shareai-lab.com
+  - DOMAIN-SUFFIX,tiangolo.com
+  - DOMAIN-SUFFIX,imonkey.me
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,cokecloud.net
